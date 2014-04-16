@@ -1,0 +1,13 @@
+{
+  "name": "anthonyshort-attributes",
+  "version": "0.0.1",
+  "description": "Get the attributes of a DOM node as an object",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/anthonyshort/attributes.git"
+  },
+  "keywords": [
+    "DOM",
+    "attributes"
+  ]
+}
